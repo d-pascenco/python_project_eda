@@ -2,6 +2,22 @@
 
 Учебный проект по разведочному анализу данных. В работе исследуется снимок популярных GitHub-репозиториев из поисковой выдачи по темам AI и ML: распределение метрик активности, связи между звёздами и форками, используемые языки и термины в описаниях.
 
+Логическим продолжением анализа стал проект [по поиску потенциально недооценённых AI/ML-проектов](https://github.com/d-pascenco/ML_project_team_Tro_Sam_Ser_Pas), в котором на подготовленных метаданных сравниваются модели классификации.
+
+## Об учебном проекте
+
+Проект выполнен командой из четырёх студентов первого курса магистратуры Национального исследовательского университета "Высшая школа экономики" в рамках образовательной программы "Магистр по наукам о данных", которая в настоящее время носит название "ПРИНТ".
+
+- [НИУ ВШЭ](https://www.hse.ru/)
+- [Образовательная программа](https://www.hse.ru/ma/mds/)
+
+## About the academic project
+
+This project was completed by a team of four first-year master's students at HSE University as part of the Master of Data Science programme, currently known as "ANNT" (Applied Neural Network Technologies).
+
+- [HSE University](https://www.hse.ru/en/)
+- [Master's programme](https://www.hse.ru/en/ma/mds/)
+
 ## Цель и задачи
 
 - объединены и очищены две исходные выгрузки;
